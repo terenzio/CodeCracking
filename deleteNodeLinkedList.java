@@ -1,4 +1,5 @@
 //  Definition for singly-linked list.
+//this is done with command line!
 
 public class deleteNodeLinkedList {
 
@@ -16,6 +17,9 @@ public class deleteNodeLinkedList {
         listNode.addNode(listNode, 10);
         listNode.addNode(listNode, 9);
         listNode.addNode(listNode, 8);
+        listNode.addNode(listNode, 7);
+        listNode.addNode(listNode, 6);
+        listNode.addNode(listNode, 5);
         
         
         System.out.println("Displaying a Node:");
